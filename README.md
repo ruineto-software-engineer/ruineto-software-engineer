@@ -1,16 +1,38 @@
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Rui Neto</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ruineto-dev&color=yellow" alt="Profile views" /> </p>
 
-### Desafios todos os dias ... 🔭
+### &nbsp;In Search of Constant Learning... 🔭
 
-Cada dia é um aprendizado constante, dentro de todo o nosso tempo trabalho é possível inovar, criar e desenvolver soluções que
-sejam de fato útil para outras pessoas, e até por vezes inspirá-las a realizar seus sonhos e objetivos com tecnologia. Fico muito
-feliz e grato por estar fazendo parte desse mundo incrível e cheio de desafios e aprendizados!
+Each day is a constant learning process, within all our working time it is possible to innovate, create and develop solutions that
+are actually useful to other people, and even sometimes inspire them to achieve their dreams and goals with technology. I get a lot
+happy and grateful to be part of this incredible world full of challenges and learning!
 
-O desenvolvimento de softwares, aplicações web e até mesmo jogos são as formas de desenvolvimento que mais gosto de fazer. O que resume
-ainda mais meu perfil é felicidade e muita gratidão de poder estar compartilhando e contribuindo com todos um pouco de minhas experiências!
+The development of software, web applications and even games are the forms of development that I like to do the most. what sums up
+even more my profile is happiness and a lot of gratitude for being able to share and contribute a little bit of my experiences!
 
-Até mais! 👋
+Until later! 👋
+
+## &nbsp;Tech Stack
+
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+
+<br><br>
+
+## &nbsp;GitHub Analytics
+
+<p align="left">
+<img width="530em" src="https://github-readme-stats.vercel.app/api?username=ruineto-dev&show_icons=true&theme=vision-friendly-dark" alt="ruineto-dev stats"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruineto-dev&layout=compact&theme=vision-friendly-dark" alt="ruineto-dev most languages"/>
+</p>
+
+<br><br>
+
+## &nbsp;Social Links
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rebeccamanzi/)](https://www.linkedin.com/in/rui-neto/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:rebeccamanzi@gmail.com)](mailto:ruineto11@gmail.com)
