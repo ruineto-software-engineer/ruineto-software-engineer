@@ -1,5 +1,7 @@
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Rui Neto</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ruineto-dev&color=yellow" alt="Profile views" /> </p>
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=ruineto-dev&color=yellow" alt="Profile views"> 
+</p>
 
 ### A Little About Me ... I'm Always Looking for Constant Challenges ... 🔭
 
@@ -24,11 +26,16 @@ Until later! 👋
 ## GitHub Analytics
 
 <p align="left">
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=ruineto-dev&show_icons=true&theme=vision-friendly-dark" alt="ruineto-dev stats"/>
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruineto-dev&layout=compact&theme=vision-friendly-dark" alt="ruineto-dev most languages"/>
-</p>
+  <details>
+    <summary>GitHub Stats</summary>
+    <img width="530em" src="https://github-readme-stats.vercel.app/api?username=ruineto-dev&show_icons=true&theme=vision-friendly-dark" alt="ruineto-dev stats">
+  <details>
 
-<br>
+  <details>
+    <summary>Most Used Languages</summary>
+    <img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruineto-dev&layout=compact&theme=vision-friendly-dark" alt="ruineto-dev most languages">
+  </details>
+</p>
 
 ## Social Links
 
