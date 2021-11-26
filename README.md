@@ -27,12 +27,12 @@ Until later! 👋
 
 <details>
   <summary>GitHub Stats</summary>
-  <img width="530em" src="https://github-readme-stats.vercel.app/api?username=ruineto-dev&show_icons=true&theme=vision-friendly-dark" alt="ruineto-dev stats">
-<details>
+  <img align="left" alt="ruineto-dev stats" src="https://github-readme-stats.vercel.app/api?username=ruineto-dev&show_icons=true&hide_border=true" />
+</details>
 
 <details>
   <summary>Most Used Languages</summary>
-  <img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruineto-dev&layout=compact&theme=vision-friendly-dark" alt="ruineto-dev most languages">
+  <img align="left" alt="ruineto-dev Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruineto-dev" />
 </details>
 
 ## Social Links
