@@ -1,4 +1,5 @@
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Rui Neto</h1>
+<img align="right" alt="GIF" src="https://github.com/ruineto-dev/ruineto-dev/blob/main/coding.gif?raw=true" width="500" height="320" />
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=ruineto-dev&color=yellow" alt="Profile views"> 
 </p>
@@ -23,6 +24,12 @@ Until later! 👋
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
+## Social Links
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rebeccamanzi/)](https://www.linkedin.com/in/rui-neto/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:rebeccamanzi@gmail.com)](mailto:ruineto11@gmail.com)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat&labelColor=C13584&logo=instagram&logoColor=white&link=https://www.instagram.com/codepwr/)](https://www.instagram.com/ruineto11/)
+
 ## GitHub Analytics
 
 <details>
@@ -34,9 +41,3 @@ Until later! 👋
   <summary>Most Used Languages</summary>
   <img align="left" alt="ruineto-dev Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruineto-dev" />
 </details>
-
-## Social Links
-
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rebeccamanzi/)](https://www.linkedin.com/in/rui-neto/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:rebeccamanzi@gmail.com)](mailto:ruineto11@gmail.com)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat&labelColor=C13584&logo=instagram&logoColor=white&link=https://www.instagram.com/codepwr/)](https://www.instagram.com/ruineto11/)
