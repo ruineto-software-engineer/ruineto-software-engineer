@@ -1,5 +1,5 @@
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Rui Neto</h1>
-<img align="right" alt="GIF" src="https://github.com/ruineto-dev/ruineto-dev/blob/main/coding.gif?raw=true" width="500" height="320" />
+<!-- <img align="right" alt="GIF" src="https://github.com/ruineto-dev/ruineto-dev/blob/main/coding.gif?raw=true" height="320" /> -->
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=ruineto-dev&color=yellow" alt="Profile views"> 
 </p>
