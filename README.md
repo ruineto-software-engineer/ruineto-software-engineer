@@ -2,9 +2,9 @@
 <!-- <img align="right" alt="GIF" src="https://github.com/ruineto-dev/ruineto-dev/blob/main/coding.gif?raw=true" height="320" /> -->
 
 <p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=ruineto-dev&color=yellow" alt="Profile views">
+  <img src="https://komarev.com/ghpvc/?username=ruineto-dev&color=blue" alt="Profile views">
 
-  <a href="https://wakatime.com/@651d40aa-a53a-4c3b-a2cb-8c0099c4ddd2">
+  <a href="https://wakatime.com/@57cab533-763c-4660-aa1f-3fbf029c095d">
     <img src="https://wakatime.com/badge/user/651d40aa-a53a-4c3b-a2cb-8c0099c4ddd2.svg" title="Total time coded since Oct 7 2021" />
   </a>
 </p>
