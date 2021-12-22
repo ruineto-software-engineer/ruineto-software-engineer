@@ -1,7 +1,12 @@
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Rui Neto</h1>
 <!-- <img align="right" alt="GIF" src="https://github.com/ruineto-dev/ruineto-dev/blob/main/coding.gif?raw=true" height="320" /> -->
+
 <p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=ruineto-dev&color=yellow" alt="Profile views"> 
+  <img src="https://komarev.com/ghpvc/?username=ruineto-dev&color=yellow" alt="Profile views">
+
+  <a href="https://wakatime.com/@57cab533-763c-4660-aa1f-3fbf029c095d">
+    <img src="https://wakatime.com/badge/user/57cab533-763c-4660-aa1f-3fbf029c095d.svg" title="Total time coded since Oct 7 2021" />
+  </a>
 </p>
 
 ### A Little About Me ... I'm Always Looking for Constant Challenges ... 🔭
@@ -40,7 +45,8 @@ Until later! 👋
   <img height="205em" alt="ruineto-dev Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruineto-dev" />
 </div>
 
-<!-- <details>
+<!-- 
+<details>
   <summary>GitHub Stats</summary>
   <img align="left" alt="ruineto-dev stats" src="https://github-readme-stats.vercel.app/api?username=ruineto-dev&show_icons=true&hide_border=true" />
 </details>
@@ -48,4 +54,5 @@ Until later! 👋
 <details>
   <summary>Most Used Languages</summary>
   <img align="left" alt="ruineto-dev Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruineto-dev" />
-</details> -->
+</details> 
+-->
