@@ -8,7 +8,6 @@
 </a>
 </p>
 
-
 ### A Little About Me ... I'm Always Looking for Constant Challenges ... 🔭
 
 Each day is a constant learning process, within all our working time it is possible to innovate, create and develop solutions that
