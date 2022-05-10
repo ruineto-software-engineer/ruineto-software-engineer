@@ -24,8 +24,6 @@ even more my profile is happiness and a lot of gratitude for being able to share
 
 Until later! 👋
 
-<br />
-
 ## Tech Stack
 
 ### Front-end:
@@ -79,16 +77,12 @@ Until later! 👋
 ![Trello](https://img.shields.io/badge/Trello-0052CC?style=flat-square&logo=trello&logoColor=white)
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white)
 
-<br />
-
 ## Social Links
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rui-neto/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ruineto11@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/ruineto11/)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/rui.neto.7587)
-
-<br />
 
 ## GitHub Analytics
 
