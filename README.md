@@ -58,6 +58,8 @@
 
 ## About Me
 
+Hi guys! My name is Rui Neto, I'm 23. Currently studying _Electrical Engineering_ at [UFC](https://www.ufc.br/) and _Software Engineering_ student at [DRIVEN Education](https://www.driven.com.br/).
+
 ### I'm always looking for new challenges... 🔭
 
 Each day is a constant learning process, within all our working time it is possible to innovate, create and develop solutions that
