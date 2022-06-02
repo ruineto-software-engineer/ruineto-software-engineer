@@ -1,4 +1,4 @@
-<h1 align='center'>Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Rui Neto</h1>
+<h1 align='center'>Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px" height="30px">, I'm Rui Neto</h1>
 <p align='center'>
   "Programming is the art that makes dreams come true."
 </p>
