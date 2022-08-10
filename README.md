@@ -15,7 +15,7 @@
 
 ## About Me
 
-Hi guys! My name is Rui Neto, I'm 23. Currently studying _Electrical Engineering_ at [UFC](https://www.ufc.br/) and _Software Engineering_ student at [DRIVEN Education](https://www.driven.com.br/).
+Hey guys! My name is Rui Neto, I'm 23 years old. Currently studying _Software Engineering_ at [Unopar](https://www.unopar.com.br/) and graduated as _Full Stack Web Developer_ at [DRIVEN Education](https://www.driven.com.br/).
 
 ### I'm always looking for new challenges... 🔭
 
