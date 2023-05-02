@@ -1,4 +1,4 @@
-<h1 align='center'>Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px" height="30px">, I'm Rui Neto</h1>
+<h1 align='center'>Hi, I'm Rui Neto</h1>
 <p align='center'>
   "Programming is the art that makes dreams come true."
 </p>
@@ -15,7 +15,7 @@
 
 ## About Me
 
-Hey guys! My name is Rui Neto, I'm 23 years old. Currently studying _Software Engineering_ at [Unopar](https://www.unopar.com.br/) and graduated as _Full Stack Web Developer_ at [DRIVEN Education](https://www.driven.com.br/).
+Hey guys! My name is Rui Neto, I'm 24 years old. Currently studying _Software Engineering_ at [Unopar](https://www.unopar.com.br/) and graduated as _Full Stack Web Developer_ at [DRIVEN Education](https://www.driven.com.br/).
 
 ### I'm always looking for new challenges... 🔭
 
@@ -51,6 +51,9 @@ Until later! 👋
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![Spring_Boot](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot)
 
+### Documentation
+![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
+
 ### Database:
 
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -68,6 +71,7 @@ Until later! 👋
 
 ![Eslint](https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white)
 ![Prettier](https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E)
+![SonarLint](https://img.shields.io/badge/SonarLint-CB2029?style=for-the-badge&logo=SONARLINT&logoColor=white)
 
 ### Cloud Deploy:
 
