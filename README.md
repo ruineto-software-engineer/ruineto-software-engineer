@@ -5,9 +5,8 @@
 
 <br />
 
-<p align="left"> 
+<p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=ruineto-dev&color=blue" alt="Profile views">
-
   <a href="https://wakatime.com/@139a4c52-8b15-48ba-8ed1-a3e108ef6a3f">
     <img src="https://wakatime.com/badge/user/139a4c52-8b15-48ba-8ed1-a3e108ef6a3f.svg" alt="Total time coded since Oct 7 2021" />
   </a>
@@ -15,16 +14,13 @@
 
 ## About Me
 
-Hey guys! My name is Rui Neto, I'm 24 years old. Currently studying _Software Engineering_ at [Unopar](https://www.unopar.com.br/) and graduated as _Full Stack Web Developer_ at [DRIVEN Education](https://www.driven.com.br/).
+Hey guys! My name is Rui Neto, I'm <span id="age"></span> years old. Currently studying _Software Engineering_ at [Unopar](https://www.unopar.com.br/) and graduated as _Full Stack Web Developer_ at [DRIVEN Education](https://www.driven.com.br/).
 
 ### I'm always looking for new challenges... 🔭
 
-Each day is a constant learning process, within all our working time it is possible to innovate, create and develop solutions that
-are actually useful to other people, and even sometimes inspire them to achieve their dreams and goals with technology. I get a lot
-happy and grateful to be part of this incredible world full of challenges and learning!
+Each day is a constant learning process, within all our working time it is possible to innovate, create and develop solutions that are actually useful to other people, and even sometimes inspire them to achieve their dreams and goals with technology. I get very happy and grateful to be part of this incredible world full of challenges and learning!
 
-The development of software, web applications and even games are the forms of development that I like to do the most. what sums up
-even more my profile is happiness and a lot of gratitude for being able to share and contribute a little bit of my experiences!
+The development of software, web applications and even games are the forms of development that I like to do the most. What sums up my profile even more is happiness and a lot of gratitude for being able to share and contribute a little bit of my experiences!
 
 Until later! 👋
 
@@ -99,6 +95,7 @@ Until later! 👋
 ![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Microsoft Azure](https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Oracle Cloud](https://img.shields.io/badge/Oracle_Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 
 ### Tools:
 
@@ -121,12 +118,10 @@ Until later! 👋
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rui-neto/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ruineto11@gmail.com)
 
-## GitHub Analytics
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=ruineto-dev&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&ring=5194F0&fire=5194F0&currStreakLabel=5194F0" alt="ruineto-dev_contribution_streak" />
-
-  <img height="205em" alt="ruineto-dev stats" src="https://github-readme-stats.vercel.app/api?username=ruineto-dev&show_icons=true&hide_border=true" />
-
-  <img height="205em" alt="ruineto-dev Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruineto-dev" />
-</div>
+<script>
+  const birthDate = new Date('1999-04-17');
+  const ageDiff = Date.now() - birthDate.getTime();
+  const ageDate = new Date(ageDiff);
+  const age = Math.abs(ageDate.getUTCFullYear() - 1970);
+  document.getElementById('age').textContent = age;
+</script>
