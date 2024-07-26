@@ -14,7 +14,7 @@
 
 ## About Me
 
-Hey guys! My name is Rui Neto, I'm <span id="age"></span> years old. Currently studying _Software Engineering_ at [Unopar](https://www.unopar.com.br/) and graduated as _Full Stack Web Developer_ at [DRIVEN Education](https://www.driven.com.br/).
+Hey guys! My name is Rui Neto, I'm 25 years old. Currently studying _Software Engineering_ at [Unopar](https://www.unopar.com.br/) and graduated as _Full Stack Web Developer_ at [DRIVEN Education](https://www.driven.com.br/).
 
 ### I'm always looking for new challenges... 🔭
 
@@ -117,11 +117,3 @@ Until later! 👋
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rui-neto/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ruineto11@gmail.com)
-
-<script>
-  const birthDate = new Date('1999-04-17');
-  const ageDiff = Date.now() - birthDate.getTime();
-  const ageDate = new Date(ageDiff);
-  const age = Math.abs(ageDate.getUTCFullYear() - 1970);
-  document.getElementById('age').textContent = age;
-</script>
